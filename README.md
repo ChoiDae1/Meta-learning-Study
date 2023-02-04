@@ -19,3 +19,16 @@
 [원본 저장소](https://github.com/dongminlee94/meta-learning-for-everyone)
 
 
+<h2>1. Meta-Supervised-learning code</h2>
+
+- model-based </br>
+(1) [MANN](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/model-based/mann_my.ipynb) &nbsp;&nbsp;(2) [SNAIL](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/model-based/snail_my.ipynb)
+
+- optimization-based</br>
+(1) [MAML-Regression](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/opt-based/maml_regression_my.ipynb)&nbsp;&nbsp;(2) [MAML-Classification](
+https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/opt-based/maml_classification_my.ipynb)
+
+- metric-based</br>
+(1) [MachingNet](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/metric-based/matching_network_my.ipynb)&nbsp;&nbsp;(2) [PrototypicalNet](
+https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/metric-based/prototypical_network_my.ipynb)
+

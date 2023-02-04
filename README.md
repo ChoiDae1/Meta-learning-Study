@@ -19,6 +19,12 @@
 [원본 저장소](https://github.com/dongminlee94/meta-learning-for-everyone)
 
 
+
+<h2>0. Load-dataset code</h2>
+
+- [omniglot](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_omniglot_my.ipynb)</br>
+- [sinusoid](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_sinusoid_my.ipynb)
+
 <h2>1. Meta-Supervised-learning code</h2>
 
 - model-based </br>

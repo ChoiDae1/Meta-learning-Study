@@ -22,8 +22,9 @@
 
 <h2>0. Load-dataset code</h2>
 
-- [omniglot](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_omniglot_my.ipynb)</br>
-- [sinusoid](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_sinusoid_my.ipynb)
+- [Omniglot](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_omniglot_my.ipynb)</br>
+- [Sinusoid](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/load_dataset/load_sinusoid_my.ipynb)</br>
+- [Half-Cheetah](https://github.com/ChoiDae1/Meta-learning-Study/tree/main/src/meta_rl/envs)
 
 <h2>1. Meta-Supervised-learning code</h2>
 
@@ -37,4 +38,15 @@ https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/opt-based/
 - metric-based</br>
 (1) [MachingNet](https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/metric-based/matching_network_my.ipynb)&nbsp;&nbsp;(2) [PrototypicalNet](
 https://github.com/ChoiDae1/Meta-learning-Study/blob/main/src/meta_sl/metric-based/prototypical_network_my.ipynb)
+
+<h2>2. Meta-Reinforce-learning code</h2>
+
+- recurrent-policies-based </br>
+(1) [RL^2](https://github.com/ChoiDae1/Meta-learning-Study/tree/main/src/meta_rl/rl2) &nbsp;&nbsp;
+
+- optimization-based</br>
+(1) [MAML-RL](https://github.com/ChoiDae1/Meta-learning-Study/tree/main/src/meta_rl/maml)&nbsp;&nbsp;
+
+- context-based</br>
+(1) [PEARL](https://github.com/ChoiDae1/Meta-learning-Study/tree/main/src/meta_rl/pearl)
 
